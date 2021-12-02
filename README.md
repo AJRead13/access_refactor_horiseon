@@ -2,7 +2,7 @@
 ## Description
 - The scope of the refactor is to make the site more accessible and to clean up the code in the background to make it easier for new devs to modify.
 - I have built this project to showcase my abilities to stream line existing pages and to increase accessibility for other users
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
+- I built this project so that I can showcase my abilities and skills to refactor a webpage.
 - The problems solved during this exercise were the overused repeating code strings that became extraneous.  Many instances targetting individual elements when the changes made were identical.  
 - I have learned how to align html elements with CSS after clearing out and refactoring the code.
 ## Table of Contents (Optional)
@@ -14,12 +14,11 @@ If your README is long, add a table of contents to make it easy for users to fin
 ## Installation
 No install required
 ## Usage
-Provide instructions and examples for use. Include screenshots as needed.
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+Open in browser.
 ## Screenshot
 ![screenshot](assets/images/screenshotpreview.jpeg)
 ## Credits
-List of collaborators:
+List of collaborators: None
 ## License
 MIT License
 
