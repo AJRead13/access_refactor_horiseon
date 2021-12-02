@@ -3,7 +3,7 @@
 - The scope of the refactor is to make the site more accessible and to clean up the code in the background to make it easier for new devs to modify.
 - I have built this project to showcase my abilities to stream line existing pages and to increase accessibility for other users
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
+- The problems solved during this exercise were the overused repeating code strings that became extraneous.  Many instances targetting individual elements when the changes made were identical.  
 - I have learned how to align html elements with CSS after clearing out and refactoring the code.
 ## Table of Contents (Optional)
 If your README is long, add a table of contents to make it easy for users to find what they need.
